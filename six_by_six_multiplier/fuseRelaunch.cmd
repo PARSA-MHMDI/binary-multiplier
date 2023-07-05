@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Study/AUT/Term6/Computer Architecture/VHDL1/six_by_six_multiplier/test_six_by_six_multiplier_isim_beh.exe" -prj "D:/Study/AUT/Term6/Computer Architecture/VHDL1/six_by_six_multiplier/test_six_by_six_multiplier_beh.prj" "work.test_six_by_six_multiplier" 

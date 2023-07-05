@@ -1,0 +1,28 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/Study/AUT/Term6/Computer Architecture/VHDL1/six_by_six_multiplier/test_six_by_six_multiplier_isim_beh.exe -prj D:/Study/AUT/Term6/Computer Architecture/VHDL1/six_by_six_multiplier/test_six_by_six_multiplier_beh.prj work.test_six_by_six_multiplier 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Study/AUT/Term6/Computer Architecture/VHDL1/six_by_six_multiplier/half_adder.vhd" into library work
+Parsing VHDL file "D:/Study/AUT/Term6/Computer Architecture/VHDL1/six_by_six_multiplier/full_adder.vhd" into library work
+Parsing VHDL file "D:/Study/AUT/Term6/Computer Architecture/VHDL1/six_by_six_multiplier/six_bit_adder.vhd" into library work
+Parsing VHDL file "D:/Study/AUT/Term6/Computer Architecture/VHDL1/six_by_six_multiplier/six_by_six_multipler.vhd" into library work
+Parsing VHDL file "D:/Study/AUT/Term6/Computer Architecture/VHDL1/six_by_six_multiplier/six_by_six_multiplier_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling architecture behavioral of entity half_adder [half_adder_default]
+Compiling architecture behavioral of entity Full_adder [full_adder_default]
+Compiling architecture behavioral of entity six_bit_adder [six_bit_adder_default]
+Compiling architecture behavioral of entity six_by_six_multiplier [six_by_six_multiplier_default]
+Compiling architecture behavioral of entity test_six_by_six_multiplier
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 14 VHDL Units
+Built simulation executable D:/Study/AUT/Term6/Computer Architecture/VHDL1/six_by_six_multiplier/test_six_by_six_multiplier_isim_beh.exe
+Fuse Memory Usage: 37512 KB
+Fuse CPU Usage: 1078 ms

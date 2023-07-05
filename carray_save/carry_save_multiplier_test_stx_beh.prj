@@ -1,0 +1,4 @@
+vhdl isim_temp "half_adder.vhd"
+vhdl isim_temp "full_adder.vhd"
+vhdl isim_temp "carry_save_multiplier.vhd"
+vhdl isim_temp "carry_save_multiplier_test.vhd"

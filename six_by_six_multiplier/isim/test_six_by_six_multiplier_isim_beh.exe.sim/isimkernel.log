@@ -1,0 +1,28 @@
+Command line:
+   test_six_by_six_multiplier_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56356
+
+Wed Mar 08 13:22:16 2023
+
+
+ Elaboration Time: 0.328125 sec
+
+ Current Memory Usage: 5807.39 Meg
+
+ Total Signals          : 541
+ Total Nets             : 244
+ Total Signal Drivers   : 217
+ Total Blocks           : 101
+ Total Primitive Blocks : 64
+ Total Processes        : 216
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 745
+
+ Total Simulation Time: 0.53125 sec
+
+ Current Memory Usage: 5807.39 Meg
+
+Wed Mar 08 13:22:50 2023
+

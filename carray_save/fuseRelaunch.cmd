@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Study/AUT/Term6/Computer Architecture/VHDL1/carray_save/carry_save_multiplier_test_isim_beh.exe" -prj "D:/Study/AUT/Term6/Computer Architecture/VHDL1/carray_save/carry_save_multiplier_test_beh.prj" "work.carry_save_multiplier_test" 

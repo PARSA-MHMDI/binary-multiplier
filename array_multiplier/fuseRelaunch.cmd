@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Study/AUT/Term6/Computer Architecture/VHDL1/array_multiplier/array_multipler_tb_isim_beh.exe" -prj "D:/Study/AUT/Term6/Computer Architecture/VHDL1/array_multiplier/array_multipler_tb_beh.prj" "work.array_multipler_tb" 

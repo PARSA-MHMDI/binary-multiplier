@@ -1,0 +1,5 @@
+vhdl work "half_adder.vhd"
+vhdl work "full_adder.vhd"
+vhdl work "six_bit_adder.vhd"
+vhdl work "six_by_six_multipler.vhd"
+vhdl work "six_by_six_multiplier_test.vhd"
